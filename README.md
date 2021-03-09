@@ -80,7 +80,7 @@ botを実際に稼働推させるためには、 `TOKEN`と`CLIENT ID`が必要�
 
 ```shell
 git clone https://github.com/HaseU-git/rbdiscord
-cd project
+cd rbdiscord/project
 ```
 
 実行するためのrubyコードを生成するシェルスクリプトを実行するために権限の変更をおこないます。  
