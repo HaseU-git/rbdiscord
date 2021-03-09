@@ -98,6 +98,7 @@ echo 'gem "iso_country_codes"
 gem "discordrb"
 ' >> Gemfile
 bundle config set --local path 'vendor/bundle'
+bundle install
 bundle exec ruby my_discord_bot.rb
 ```
 
