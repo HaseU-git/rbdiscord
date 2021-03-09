@@ -81,7 +81,7 @@ botを実際に稼働推させるためには、 `TOKEN`と`CLIENT ID`が必要�
 
 ```shell
 sudo chmod 555 create_code.sh
-./create_code.sh 2 > /dev/null
+./create_code.sh 2> /dev/null
 ```
 `my_discord_bot.rb`というファイルの8、9行目に自分のbotの`TOKEN`と`CLIENT_ID`が入力されていれば成功です。  
 
