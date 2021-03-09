@@ -5,8 +5,8 @@ require "json"
 require "discordrb"
 require "iso_country_codes"
 
-TOKEN = "ODE4NzM5MDkxNTk5OTE3MDc4.YEccMg.7vkzv3kM2XS-b-3ZB6ZzLP2CQcs"
-CLIENT_ID = "818739091599917078"
+TOKEN = "TOKEN"
+CLIENT_ID = "CLIENT_ID"
 BASE_URL = "https://covidapi.info/api/v1"
 
 def iso_validator(country_str)
